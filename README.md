@@ -50,15 +50,15 @@ This project uses computer vision and deep learning to identify various plant di
 ## 🖼️ Streamlit Interface Preview
 
 ### 📥 Upload Leaf Image
-<img src="black-rot-in-grape.JPG" width="500"/>
-<img src="Cedar-Apple-Rust-on-Foliage.jpg" width="500"/>
+<img src="black-rot-in-grape.JPG" width="200"/>
+<img src="Cedar-Apple-Rust-on-Foliage.jpg" width="200"/>
 
 ### 🔍 Model Prediction Output
-<img src="Picture2.png" width="500"/>
-<img src="Picture3.png" width="500"/>
+<img src="Picture2.png" width="600"/>
+<img src="Picture3.png" width="600"/>
 
 ### 🌿 Full App View
-<img src="Picture1.png" width="500"/>
+<img src="Picture1.png" width="600"/>
 
 
 
