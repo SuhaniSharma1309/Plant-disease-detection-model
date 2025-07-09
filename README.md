@@ -60,9 +60,19 @@ This project uses computer vision and deep learning to identify various plant di
 ### 🌿 Full App View
 <img src="Picture1.png" width="600"/>
 
+## 👩‍💻 Authors
 
+- **Divyanka Dixit**  
+  B.Tech CSE | Amity University Noida  
+  📧 divyankadixit@gmail.com
+  
+- **Suhani Sharma**  
+  B.Tech CSE | Amity University Noida  
+  📧 suhani.sharma1309@gmail.com  
+
+  
 ## 📝 License
 This project is for academic and research use only.
 
-   **Made by Suhani Sharma💚**
+   **Made with 💚**
 
