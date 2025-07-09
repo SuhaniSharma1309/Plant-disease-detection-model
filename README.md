@@ -68,7 +68,7 @@ This project uses computer vision and deep learning to identify various plant di
   
 - **Suhani Sharma**  
   B.Tech CSE | Amity University Noida  
-  📧 suhani.sharma1309@gmail.com  
+  📧 suhanisharma1309@gmail.com  
 
   
 ## 📝 License
