@@ -61,5 +61,8 @@ This project uses computer vision and deep learning to identify various plant di
 <img src="Picture1.png" width="600"/>
 
 
+## 📝 License
+This project is for academic and research use only.
 
+   **Made by Suhani Sharma💚**
 
