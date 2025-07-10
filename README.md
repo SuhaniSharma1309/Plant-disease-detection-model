@@ -64,7 +64,7 @@ This project uses computer vision and deep learning to identify various plant di
 
 - **Divyanka Dixit**  
   B.Tech CSE | Amity University Noida  
-  📧 divyankadixit@gmail.com
+  📧 divyankadixit1@gmail.com
   
 - **Suhani Sharma**  
   B.Tech CSE | Amity University Noida  
